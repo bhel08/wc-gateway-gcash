@@ -2,7 +2,6 @@
 
  - Contributors: ilokano
  - Tags: woocommerce, payment gateway, gateway, manual payment, gcash
- - [Donate link](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@skyverge.com&item_name=Donation+for+WooCommerce+Offline+Gateway)
  - Requires at least: 5.0
  - Tested up to: 5.4.2
  - Requires WooCommerce at least: 4.0
@@ -22,9 +21,9 @@ When an order is submitted via the GCash payment method, the order will be place
 == Installation ==
 
 1. Be sure you're running WooCommerce 4.0+ in your shop.
-2. You can: (1) upload the entire `woocommerce-gateway-gcash` folder to the `/wp-content/plugins/` directory, (2) upload the .zip file with the plugin under **Plugins &gt; Add New &gt; Upload**
+2. You can: (1) upload the entire `wc-gateway-gcash` folder to the `/wp-content/plugins/` directory, (2) upload the .zip file with the plugin under **Plugins &gt; Add New &gt; Upload**
 3. Activate the plugin through the **Plugins** menu in WordPress
-4. Go to **WooCommerce &gt; Settings &gt; Checkout** and select "Globe GCash" to configure
+4. Go to **WooCommerce &gt; Settings &gt; Checkout** and select "WooCommerce GCash Gateway" to configure
 
 == Frequently Asked Questions ==
 
