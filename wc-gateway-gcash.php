@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce GCash Gateway
- * Plugin URI: https://jasperespejo.com/
+ * Plugin URI: https://github.com/ilokano/wc-gateway-gcash/
  * Description: Offline payment method for Globe GCash.
  * Author: Jasper A Espejo
  * Author URI: https://jasperespejo.com/
