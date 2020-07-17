@@ -23,7 +23,7 @@ When an order is submitted via the GCash payment method, the order will be place
 1. Be sure you're running WooCommerce 4.0+ in your shop.
 2. You can: (1) upload the entire `wc-gateway-gcash` folder to the `/wp-content/plugins/` directory, (2) upload the .zip file with the plugin under **Plugins &gt; Add New &gt; Upload**
 3. Activate the plugin through the **Plugins** menu in WordPress
-4. Go to **WooCommerce &gt; Settings &gt; Checkout** and select "WooCommerce GCash Gateway" to configure
+4. Go to **WooCommerce &gt; Settings &gt; Checkout** and select "GCash" to configure
 
 == Frequently Asked Questions ==
 
