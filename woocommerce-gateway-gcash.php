@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce GCash Gateway
- * Plugin URI: https://www.skyverge.com/?p=3343
+ * Plugin URI: https://jasperespejo.com/
  * Description: Offline payment method for Globe GCash.
  * Author: Jasper A Espejo
  * Author URI: https://jasperespejo.com/
@@ -9,7 +9,7 @@
  * Text Domain: wc-gateway-gcash
  * Domain Path: /i18n/languages/
  *
- * Copyright: (c) 2015-2016 SkyVerge, Inc. (info@skyverge.com) and WooCommerce
+ * Copyright: (c) 2020 Jasper A. Espejo and WooCommerce
  *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -17,7 +17,7 @@
  * @package   WC-Gateway-GCash
  * @author    Jasper A Espejo
  * @category  Admin
- * @copyright Copyright (c) 2015-2016, SkyVerge, Inc. and WooCommerce
+ * @copyright Copyright (c) 2020 Jasper A. Espejo and WooCommerce
  * @license   http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License v3.0
  *
  * This offline gateway forks the WooCommerce core "Cheque" payment gateway to create GCash payment method.
