@@ -144,8 +144,8 @@ function wc_gcash_gateway_init() {
 				'instructions' => array(
 					'title'       => __( 'Instructions', 'wc-gateway-gcash' ),
 					'type'        => 'textarea',
-					'description' => __( 'Instructions that will be added to the thank you page and emails.', 'wc-gateway-gcash' ),
-					'default'     => 'You may pay with GCash to Phone Number 09xx-xxx-xxxx. Please mention your name and the order you are paying for during payment, especially if you are using another person\'s GCash account.',
+					'description' => __( 'Instructions that will be added to the thank you page and emails. Make sure you add your GCash account number', 'wc-gateway-gcash' ),
+					'default'     => 'You may pay with GCash to mobile phone number 09xx-xxx-xxxx. Please mention your name and the order you are paying for during payment, especially if you are using another person\'s GCash account.',
 					'desc_tip'    => true,
 				),
 			) );
