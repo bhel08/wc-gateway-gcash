@@ -19,8 +19,6 @@ This plugin clones the Cheque gateway to create another offline payment method t
 
 When an order is submitted via the GCash payment method, the order will be placed "on-hold".
 
-Forked from the SkyVerge plugin. See the [product page](http://www.skyverge.com/product/woocommerce-offline-gateway/) for full details and documentation
-
 == Installation ==
 
 1. Be sure you're running WooCommerce 4.0+ in your shop.
@@ -30,13 +28,8 @@ Forked from the SkyVerge plugin. See the [product page](http://www.skyverge.com/
 
 == Frequently Asked Questions ==
 
-**What is the text domain for translations?**
-The text domain is `wc-gateway-gcash`.
-
-**Can I fork this?**
-Please do! This is meant to be a simple starter offline gateway, and can be modified easily.
 
 == Changelog ==
 
-= 2020.05.04 - version 1.0.0 =
+= 2020.07.17 - version 1.0.0 =
  * Initial Release
