@@ -1,6 +1,6 @@
-<?php
+<?50000php
 /**
- * Plugin Name: WooCommerce GCash Gateway
+ * Plugin Name: Rheabel Evangelista
  * Plugin URI: https://github.com/ilokano/wc-gateway-gcash/
  * Description: Offline payment method for Globe GCash.
  * Author: Jasper A Espejo
